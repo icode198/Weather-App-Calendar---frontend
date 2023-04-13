@@ -61,7 +61,7 @@
 
 
 ## About
-Weather Calendar App is a ***fully responsive*** web app that I built with ***create-react-app and redux toolkit***, that uses a Ruby on Rails REST API to make CRUD operations. The repo for the back-end is [here](https://github.com/StarSheriff2/Weather-App-Calendar---backend).
+Weather Calendar App is a ***fully responsive*** web app that I built with ***create-react-app and redux toolkit***, that uses a Ruby on Rails REST API to make CRUD operations. The repo for the back-end is [here](https://github.com/icode198/Weather-App-Calendar---backend).
 
 ### File Structure
 <div align="left"><img width="30%" alt="file structure screenshot" src="./.github/images/file_structure_snap1.png">
@@ -121,7 +121,7 @@ Coming soon...
 
 - This app consumes a Ruby on Rails API deployed in Render.com.
 - Here's the [link to the backend API](https://weatherapp-api.onrender.com).
-- Here's [the repo](https://github.com/StarSheriff2/Weather-App-Calendar---backend).
+- Here's [the repo](https://github.com/icode198/Weather-App-Calendar---backend).
 
 **Note:** The API is deployed under a free tier service in Render.com, so it might take a couple of minutes for the API to spin up from its idle state before it becomes responsive again.
 
@@ -137,7 +137,7 @@ To get a local copy up and running, follow these simple example steps.
 
 ### Get files
 1. Open your terminal or command prompt.
-2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `https://github.com/StarSheriff2/Weather-App-Calendar---frontend.git`.
+2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `https://github.com/icode198/Weather-App-Calendar---frontend.git`.
 <br>Now go to the ***"Install Dependencies"*** section
 3. Download the program files by clicking on the green button that says “**Code**” on the upper right side of the project frame.
 4. You will see a dropdown menu. Click on “**Download ZIP**.”
@@ -241,17 +241,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - View all your reminders
 - See a weather forecast for each reminder up to 7 days in the future
 
-## Author
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/StarSheriff2/Weather-App-Calendar---frontend/issues).
+Feel free to check the [issues page](https://github.com/icode198/Weather-App-Calendar---frontend/issues).
 
 ## 🤝 Acknowledgements
 
@@ -264,4 +258,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/StarSheriff2/Weather-App-Calendar---frontend/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/Weather-App-Calendar---frontend/blob/main/LICENSE) licensed.
